@@ -1,0 +1,138 @@
+.bigbegin {
+    height: 100px;
+    text-align: center;
+    padding-top: 20px;
+    background-color: rgb(255, 177, 168);
+    color: rgb(135, 29, 45);
+    margin-bottom: 0%;
+
+}
+
+.navbar-custom {
+    background: linear-gradient(135deg, #500101 0%, #7e0028 50%, #c50052 100%) !important;
+}
+
+.kartochka {
+    background-color: rgb(255, 209, 211);
+    border: solid #500101 !important;
+
+}
+
+.fonkart {
+    background-color: rgb(255, 223, 202) !important;
+    border: solid rgb(255, 223, 202) !important;
+}
+
+.korzina {
+    background-color: #7e0028 !important;
+    border: solid #470016 !important;
+}
+.osn {
+    background-color: rgb(255, 223, 202);
+}
+
+.zagolow {
+    margin-top: 20px;
+    text-align: center;
+    border: 3px solid rgb(181, 23, 46);
+    border-radius: 7px;
+}
+.nacalo {
+    display: inline;
+    width: 600px;
+    height: 200px;
+    margin-left: 20px;     
+}
+
+.zagolow>a {
+    color: rgb(135, 29, 45) !important;
+}
+
+.nacalo>a {
+    color: rgb(135, 29, 45) !important;
+}
+.isk {
+    margin-left: 20px;
+}
+
+
+
+
+
+.pasport {
+    background-image: url(images/passportback.jpg);
+    background-position: center-bottom;
+    background-position-y: 220px;
+    background-repeat: no-repeat;
+}
+
+.uwd {
+    margin-left: 180px;
+    margin-top: 90px;
+}
+.datvid {
+    display: inline-block;
+    margin-left: 145px;
+    margin-top: 72px;
+}
+.kod {
+    display: inline-block;
+    margin-left: 145px;
+    margin-top: 72px;
+}
+.sur {
+    margin-left: 320px;
+    margin-top: 303px;
+}
+.nam {
+    margin-left: 320px;
+    margin-top: 0px;
+}
+.patr {
+    margin-left: 320px;
+    margin-top: 0px;
+}
+.dat {
+    margin-left: 450px;
+    margin-top: 36px;
+}
+.mest {
+    margin-left: 320px;
+    margin-top: 0px;
+}
+
+.but {
+    margin-top: 100px;
+}
+
+
+
+
+.spisok {
+    margin-top: 20px;
+    margin-left: 30px;
+}
+
+legend {
+    background-color: rgb(255, 211, 161);
+    color: rgb(152, 1, 1);
+    border: 3px solid rgb(138, 38, 1);
+    border-radius: 6px;
+    padding: 5px 10px;
+}
+table {
+    border: 2px solid black;
+}
+
+td {
+    border: 2px solid sienna;
+
+}
+th {
+    border: 2px black;
+}
+
+.krasota {
+    text-align: center;
+    margin-top: 50px;
+}
